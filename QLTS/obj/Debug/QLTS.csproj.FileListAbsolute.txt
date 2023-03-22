@@ -1,0 +1,5 @@
+D:\QuanLyTiemSach\QLTS\obj\Debug\QLTS.csproj.AssemblyReference.cache
+D:\QuanLyTiemSach\QLTS\obj\Debug\QLTS.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyTiemSach\QLTS\obj\Debug\QLTS.Properties.Resources.resources
+D:\QuanLyTiemSach\QLTS\obj\Debug\QLTS.csproj.GenerateResource.cache
+D:\QuanLyTiemSach\QLTS\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
